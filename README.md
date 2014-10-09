@@ -1,0 +1,4 @@
+manifesto
+=========
+
+Macaroni Inside Manifesto
